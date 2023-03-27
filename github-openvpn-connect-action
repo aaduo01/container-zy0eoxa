@@ -1,2 +1,0 @@
-- name: OpenVPN-Connect
-  uses: kota65535/github-openvpn-connect-action@v2.0.2
