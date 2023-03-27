@@ -1,0 +1,4 @@
+# This is a basic workflow to help you get started with Actions
+
+- name: OpenVPN-Connect
+  uses: kota65535/github-openvpn-connect-action@v2.0.2
